@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+.button {
+    background-color: green;
+    color: white;
+    border-color: transparent;
+    height: 40px;
+    font-weight: bold;
+    border-radius: 15px;
+    width: 200px;
+    margin-top: 20px;
+}
+
+.content {
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+.alteraColchete {
+    color: blue;
+}
+
+.alterarChave {
+    color: red;
+}
